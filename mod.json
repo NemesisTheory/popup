@@ -1,0 +1,9 @@
+{
+  "name": "popup",
+  "displayName": "popup",
+  "author": "NemesisTheory",
+  "description": "add 15 popup on startup",
+  "version": "1.0",
+  "minGameVersion": "140",
+  "hidden": "true"
+}
